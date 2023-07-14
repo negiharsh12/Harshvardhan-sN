@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Singh Negi</h1>
-<h3>- I am a fourth-year student at IMS Engineering College, and I will be graduating in 2024. I am passionate about competitive programming and Android app development. <br>- I am always looking for new challenges, and I am eager to learn new things. I am confident that my skills and experience would be a valuable asset to any team.</h3>
+<h3>• I am a fourth-year student at IMS Engineering College, and I will be graduating in 2024. I am passionate about competitive programming and Android app development. <br>• I am always looking for new challenges, and I am eager to learn new things. I am confident that my skills and experience would be a valuable asset to any team.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
