@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Singh Negi</h1>
-<h3>• Currently, I attend IMS Engineering College and will be graduating in 2024. My interests lie in competitive programming and Android app development. 
+<h3>• Currently, I attend IMS Engineering College and will be graduating in 2024. My interests lie in Competitive Programming and Android app development. 
 <br>• Always seeking new challenges and eager to expand my knowledge, I am confident that my skills and experience would greatly benefit any team. </h3>
 
 <h3 align="left">Connect with me:</h3>
