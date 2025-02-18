@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Singh Negi</h1>
-<h5>@Accenture <h3>CSE`24</h3></h5>
-<h3><br>Always seeking new challenges and eager to expand my knowledge, I am confident that my skills and experience would greatly benefit any team. </h3>
+<h2>Accenture CSE`24</h2>
+<br>
+<h3>Always seeking new challenges and eager to expand my knowledge, I am confident that my skills and experience would greatly benefit any team. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
